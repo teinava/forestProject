@@ -1,0 +1,5 @@
+C:\Users\1345630\Desktop\MyProject2\x64\Debug\MyProject.exe
+D:\учеба\6 семестр\НИР\MyProject2\x64\Debug\MyProject.exe
+D:\учеба\7 семестр\НИР\MyProject2\x64\Debug\MyProject.exe
+D:\учеба\7 семестр\НИР\MyProject3\x64\Debug\MyProject.exe
+D:\учеба\8 семестр\диплом\MyProject3\x64\Debug\MyProject.exe

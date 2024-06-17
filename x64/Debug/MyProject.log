@@ -1,0 +1,31 @@
+﻿  forest.cpp
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(155,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(158,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(159,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(202,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(205,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(206,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(338,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(338,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(339,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(339,18): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(415,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(418,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(419,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(475,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(485,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(515,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(518,31): warning C4305: +=: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(532,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(535,31): warning C4305: -=: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(548,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(551,31): warning C4305: -=: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(564,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(567,31): warning C4305: +=: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(583,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(602,38): warning C4305: аргумент: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(602,30): warning C4305: аргумент: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(605,33): warning C4305: аргумент: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(605,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\учеба\8 семестр\диплом\MyProject3\forest.cpp(615,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  MyProject.vcxproj -> D:\учеба\8 семестр\диплом\MyProject3\x64\Debug\MyProject.exe
